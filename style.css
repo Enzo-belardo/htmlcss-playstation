@@ -1,6 +1,19 @@
 .bg{
     background-image: url(./img/jumbo-bg.png);
     background-size: cover;
+    background-position-x:center;
+    height: 600px;
+    margin-bottom: 2rem;
     background-repeat: no-repeat;
     position: relative;
+}
+.bg-2{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position-x:center;
+    height: 600px;
+    margin-bottom: 2rem;
+    background-repeat: no-repeat;
+    position: relative;
+
 }
