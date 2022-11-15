@@ -17,3 +17,10 @@
     position: relative;
 
 }
+.bg-play{
+    background-color: #bebcbb;
+
+}
+.bg-now{
+    background-color: #161c3b;
+}
