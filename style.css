@@ -1,3 +1,8 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .bg{
     background-image: url(./img/jumbo-bg.png);
     background-size: cover;
@@ -28,5 +33,4 @@
 }
 ul{
     list-style: none; 
-    display: inline-block;
 }
