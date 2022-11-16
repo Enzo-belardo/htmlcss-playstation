@@ -27,7 +27,6 @@
     background-color:#00439c ;
 }
 ul{
-    list-style: none;
+    list-style: none; 
     display: inline-block;
-    flex-direction: row;
 }
